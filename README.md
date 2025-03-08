@@ -1,4 +1,5 @@
-     <img src="artificial-intelligence-twitter-header_23-2150359290.jpg?t=st=1741451913~exp=1741455513~hmac=e8e15b78f9e1833f4a5a93fede0b204bdd03dcc3d84105e155706158ee697342&w=1380" alt="" height="200p">
+
+        <img src="/img.jpg" alt="" height="200px">
 <h1 align="center">Hi 👋, I'm Alishba REHMAN QURESHI</h1>
 <h3 align="center">A FULL STACK   DEVELOPER FROM PAKISTAN</h3>
 <img  src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2023/09/como-montar-uma-clinica-de-estetica.gif" align="right" width="400" height="300" alt="coding">
