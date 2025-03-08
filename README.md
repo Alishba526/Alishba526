@@ -1,5 +1,5 @@
 
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.creativeitinstitute.com%2Fcourses%2Fweb-development&psig=AOvVaw1pAq4C-taBBiFORhqThtLM&ust=1741538009597000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCf9eT0-osDFQAAAAAdAAAAABAE" alt="banner" width="100%" height="400">
+ <img src="artificial-intelligence-twitter-header_23-2150359290.jpg?t=st=1741451913~exp=1741455513~hmac=e8e15b78f9e1833f4a5a93fede0b204bdd03dcc3d84105e155706158ee697342&w=1380" alt="banner" width="100%" height="400">
 
 <h1 align="center">Hi 👋, I'm Alishba REHMAN QURESHI</h1>
 <h3 align="center">A FULL STACK   DEVELOPER FROM PAKISTAN</h3>
