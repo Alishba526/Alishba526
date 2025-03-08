@@ -1,5 +1,5 @@
 
-        <img src="/img.jpg" alt="" height="200px">
+        <img src="https://media.istockphoto.com/id/1999938268/photo/a-chip-labeled-ai-in-the-middle-of-metal-components.jpg?s=2048x2048&w=is&k=20&c=Fh7cmBLyQGeJw5oIWpnBUvxd9ELZC_5XrynnjT_xNjA=" alt="" height="200px">
 <h1 align="center">Hi 👋, I'm Alishba REHMAN QURESHI</h1>
 <h3 align="center">A FULL STACK   DEVELOPER FROM PAKISTAN</h3>
 <img  src="https://gestaodeclinicas.ajmed.com.br/wp-content/uploads/2023/09/como-montar-uma-clinica-de-estetica.gif" align="right" width="400" height="300" alt="coding">
